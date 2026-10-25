@@ -1,0 +1,11 @@
+# Core Data Science & Machine Learning
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Deep Learning (PyTorch Sequence Models)
+torch>=2.0.0

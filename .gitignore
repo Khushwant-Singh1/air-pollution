@@ -1,0 +1,99 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.*
+!.env.example
+
+# Operating System & IDEs
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# ==========================================
+# Heavy Data & Datasets
+# ==========================================
+/data/*
+!/data/.gitkeep
+!/data/stations/
+/data/stations/*
+!/data/stations/.gitkeep
+*.csv.gz
+*.zip
+*.tar.gz
+
+# ==========================================
+# Trained Models, Checkpoints & Heavy Binaries
+# ==========================================
+/models_weather_only/
+/models/*
+!/models/.gitkeep
+!/models/station_models/
+/models/station_models/*
+!/models/station_models/.gitkeep
+/deep_learning/checkpoints/*
+!/deep_learning/checkpoints/.gitkeep
+/deep_learning/*.joblib
+
+# Serialized model binary extensions
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.onnx
+*.pb
+*.ckpt
+*.bin
+*.model
+
+# Logs & Experiment Tracking
+*.log
+logs/
+wandb/
+mlruns/
+lightning_logs/

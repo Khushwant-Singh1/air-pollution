@@ -1,0 +1,85 @@
+Station,Pollutant,Status,Train Samples,Test Samples,MAE,RMSE,R2 Score,RMSE / Mean,Model Path
+Manoharpur,PM2.5 (µg/m³),Trained,16418,8328,6.93,16.29,0.6778,44.7%,Manoharpur_PM2.5.joblib
+Manoharpur,PM10 (µg/m³),Trained,16317,8268,16.77,31.25,0.7073,37.9%,Manoharpur_PM10.joblib
+Manoharpur,NO (µg/m³),Trained,17447,8612,0.58,3.69,0.0521,67.9%,Manoharpur_NO.joblib
+Manoharpur,NO2 (µg/m³),Trained,17459,8612,0.8,1.63,0.9352,8.3%,Manoharpur_NO2.joblib
+Manoharpur,NOx (ppb),Trained,17509,8624,1.26,4.66,0.585,21.0%,Manoharpur_NOx.joblib
+Manoharpur,NH3 (µg/m³),Trained,17282,8612,0.39,0.8,0.9729,9.5%,Manoharpur_NH3.joblib
+Manoharpur,SO2 (µg/m³),Trained,17478,8337,4.85,12.79,0.5868,52.1%,Manoharpur_SO2.joblib
+Manoharpur,CO (mg/m³),Trained,17509,8624,0.03,0.08,0.8008,23.8%,Manoharpur_CO.joblib
+Manoharpur,Ozone (µg/m³),Trained,15719,6705,3.83,9.85,0.723,70.2%,Manoharpur_Ozone.joblib
+Manoharpur,Benzene (µg/m³),Trained,17509,8624,0.01,0.04,0.8155,22.7%,Manoharpur_Benzene.joblib
+Manoharpur,Toluene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Manoharpur,Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Manoharpur,Eth-Benzene (µg/m³),Trained,17497,8584,0.02,0.06,0.8275,21.5%,Manoharpur_Eth-Benzene.joblib
+Manoharpur,MP-Xylene (µg/m³),Trained,17472,8573,0.01,0.03,0.8209,22.0%,Manoharpur_MP-Xylene.joblib
+Rohta,PM2.5 (µg/m³),Trained,15481,7527,8.44,14.53,0.7395,34.2%,Rohta_PM2.5.joblib
+Rohta,PM10 (µg/m³),Trained,15488,7570,16.66,29.16,0.8155,33.6%,Rohta_PM10.joblib
+Rohta,NO (µg/m³),Trained,15441,8290,1.42,2.18,0.3883,24.9%,Rohta_NO.joblib
+Rohta,NO2 (µg/m³),Trained,15443,8292,2.25,3.26,-0.0118,31.9%,Rohta_NO2.joblib
+Rohta,NOx (ppb),Trained,17027,8362,5.43,14.52,-0.0709,74.5%,Rohta_NOx.joblib
+Rohta,NH3 (µg/m³),Trained,15471,8290,3.54,5.43,0.1993,28.5%,Rohta_NH3.joblib
+Rohta,SO2 (µg/m³),Trained,16776,8270,0.96,1.52,0.9171,11.5%,Rohta_SO2.joblib
+Rohta,CO (mg/m³),Trained,17027,8364,0.06,0.1,0.8444,16.7%,Rohta_CO.joblib
+Rohta,Ozone (µg/m³),Trained,16884,8292,0.77,6.47,0.0785,48.8%,Rohta_Ozone.joblib
+Rohta,Benzene (µg/m³),Trained,17027,8364,0.01,0.02,0.8142,18.2%,Rohta_Benzene.joblib
+Rohta,Toluene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Rohta,Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Rohta,Eth-Benzene (µg/m³),Trained,16718,8227,0.01,0.01,0.8744,14.4%,Rohta_Eth-Benzene.joblib
+Rohta,MP-Xylene (µg/m³),Trained,16668,8214,0.01,0.01,0.8755,14.3%,Rohta_MP-Xylene.joblib
+Sanjay_Palace,PM2.5 (µg/m³),Trained,16024,8131,8.69,19.99,0.8032,46.5%,Sanjay_Palace_PM2.5.joblib
+Sanjay_Palace,PM10 (µg/m³),Trained,16154,7987,20.5,41.11,0.7143,43.7%,Sanjay_Palace_PM10.joblib
+Sanjay_Palace,NO (µg/m³),Trained,15276,8415,1.56,5.07,0.6766,112.9%,Sanjay_Palace_NO.joblib
+Sanjay_Palace,NO2 (µg/m³),Trained,16103,8449,2.77,8.62,0.8443,64.4%,Sanjay_Palace_NO2.joblib
+Sanjay_Palace,NOx (ppb),Trained,16134,8506,2.41,6.8,0.8304,64.8%,Sanjay_Palace_NOx.joblib
+Sanjay_Palace,NH3 (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Sanjay_Palace,SO2 (µg/m³),Trained,14869,7963,1.22,2.71,0.6189,24.8%,Sanjay_Palace_SO2.joblib
+Sanjay_Palace,CO (mg/m³),Trained,16459,8480,0.13,0.3,0.5894,41.2%,Sanjay_Palace_CO.joblib
+Sanjay_Palace,Ozone (µg/m³),Trained,16372,8477,5.55,8.75,0.932,23.7%,Sanjay_Palace_Ozone.joblib
+Sanjay_Palace,Benzene (µg/m³),Trained,14439,8523,0.23,1.03,0.3941,62.6%,Sanjay_Palace_Benzene.joblib
+Sanjay_Palace,Toluene (µg/m³),Trained,14444,8523,0.37,1.65,0.3437,65.2%,Sanjay_Palace_Toluene.joblib
+Sanjay_Palace,Xylene (µg/m³),Trained,14444,8524,0.44,1.23,0.2076,71.6%,Sanjay_Palace_Xylene.joblib
+Sanjay_Palace,Eth-Benzene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Sanjay_Palace,MP-Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Sector_3B,PM2.5 (µg/m³),Trained,16486,8013,9.03,23.55,0.5602,53.1%,Sector_3B_PM2.5.joblib
+Sector_3B,PM10 (µg/m³),Trained,17046,7863,25.63,55.61,0.5421,45.4%,Sector_3B_PM10.joblib
+Sector_3B,NO (µg/m³),Trained,17367,8701,2.45,5.73,0.0974,52.0%,Sector_3B_NO.joblib
+Sector_3B,NO2 (µg/m³),Trained,17305,8640,1.16,1.78,0.954,9.2%,Sector_3B_NO2.joblib
+Sector_3B,NOx (ppb),Trained,17471,8711,2.24,5.45,0.712,15.5%,Sector_3B_NOx.joblib
+Sector_3B,NH3 (µg/m³),Trained,17399,8704,3.3,6.89,0.7964,30.7%,Sector_3B_NH3.joblib
+Sector_3B,SO2 (µg/m³),Trained,17416,8682,0.46,0.85,0.9744,6.5%,Sector_3B_SO2.joblib
+Sector_3B,CO (mg/m³),Trained,17471,8711,0.05,0.08,0.9543,13.8%,Sector_3B_CO.joblib
+Sector_3B,Ozone (µg/m³),Trained,16483,7950,3.32,10.4,0.736,96.1%,Sector_3B_Ozone.joblib
+Sector_3B,Benzene (µg/m³),Trained,17345,8711,0.02,0.04,0.8262,27.0%,Sector_3B_Benzene.joblib
+Sector_3B,Toluene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Sector_3B,Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Sector_3B,Eth-Benzene (µg/m³),Trained,13502,8702,0.02,0.05,0.9069,19.8%,Sector_3B_Eth-Benzene.joblib
+Sector_3B,MP-Xylene (µg/m³),Trained,13454,8699,0.01,0.02,0.9208,18.2%,Sector_3B_MP-Xylene.joblib
+Shahjahan_Garden,PM2.5 (µg/m³),Trained,15661,7751,7.57,12.12,0.7356,32.9%,Shahjahan_Garden_PM2.5.joblib
+Shahjahan_Garden,PM10 (µg/m³),Trained,15586,7834,20.22,31.86,0.7638,29.1%,Shahjahan_Garden_PM10.joblib
+Shahjahan_Garden,NO (µg/m³),Trained,16938,7933,0.54,4.23,0.1368,61.3%,Shahjahan_Garden_NO.joblib
+Shahjahan_Garden,NO2 (µg/m³),Trained,16873,7933,1.64,2.68,0.8369,14.0%,Shahjahan_Garden_NO2.joblib
+Shahjahan_Garden,NOx (ppb),Trained,16977,8145,1.02,4.6,0.6601,17.9%,Shahjahan_Garden_NOx.joblib
+Shahjahan_Garden,NH3 (µg/m³),Trained,16197,8129,0.38,0.59,0.974,11.7%,Shahjahan_Garden_NH3.joblib
+Shahjahan_Garden,SO2 (µg/m³),Trained,16647,8130,1.22,2.02,0.9676,8.5%,Shahjahan_Garden_SO2.joblib
+Shahjahan_Garden,CO (mg/m³),Trained,16979,8145,0.07,0.15,0.9006,31.8%,Shahjahan_Garden_CO.joblib
+Shahjahan_Garden,Ozone (µg/m³),Trained,10884,6435,6.05,9.06,0.8164,41.9%,Shahjahan_Garden_Ozone.joblib
+Shahjahan_Garden,Benzene (µg/m³),Trained,16979,8145,0.02,0.03,0.895,32.7%,Shahjahan_Garden_Benzene.joblib
+Shahjahan_Garden,Toluene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Shahjahan_Garden,Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Shahjahan_Garden,Eth-Benzene (µg/m³),Trained,16745,7996,0.01,0.02,0.8912,32.9%,Shahjahan_Garden_Eth-Benzene.joblib
+Shahjahan_Garden,MP-Xylene (µg/m³),Trained,16745,7994,0.01,0.02,0.892,32.7%,Shahjahan_Garden_MP-Xylene.joblib
+Shastripuram,PM2.5 (µg/m³),Trained,15813,7582,7.92,19.19,0.5069,55.9%,Shastripuram_PM2.5.joblib
+Shastripuram,PM10 (µg/m³),Trained,15168,7030,19.97,34.87,0.7534,32.4%,Shastripuram_PM10.joblib
+Shastripuram,NO (µg/m³),Trained,17400,8594,2.52,9.24,0.0881,110.1%,Shastripuram_NO.joblib
+Shastripuram,NO2 (µg/m³),Trained,17414,8594,2.48,6.13,0.5206,19.9%,Shastripuram_NO2.joblib
+Shastripuram,NOx (ppb),Trained,17431,8610,4.98,11.65,0.1498,29.7%,Shastripuram_NOx.joblib
+Shastripuram,NH3 (µg/m³),Trained,14263,7506,1.49,5.98,-0.0427,54.7%,Shastripuram_NH3.joblib
+Shastripuram,SO2 (µg/m³),Trained,17414,8470,2.03,4.87,0.7355,26.8%,Shastripuram_SO2.joblib
+Shastripuram,CO (mg/m³),Trained,17431,8610,0.03,0.04,0.9494,13.0%,Shastripuram_CO.joblib
+Shastripuram,Ozone (µg/m³),Trained,15593,8156,1.73,8.47,0.5853,148.1%,Shastripuram_Ozone.joblib
+Shastripuram,Benzene (µg/m³),Trained,17431,8610,0.01,0.01,0.9372,14.6%,Shastripuram_Benzene.joblib
+Shastripuram,Toluene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Shastripuram,Xylene (µg/m³),Skipped (insufficient data),0,0,,,,,-
+Shastripuram,Eth-Benzene (µg/m³),Trained,17075,8479,0.01,0.02,0.9419,13.6%,Shastripuram_Eth-Benzene.joblib
+Shastripuram,MP-Xylene (µg/m³),Trained,17073,8475,0.01,0.01,0.9413,13.6%,Shastripuram_MP-Xylene.joblib
